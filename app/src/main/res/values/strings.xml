@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Notes Keeper</string>
+    <string name="showAll">Show All</string>
+    <string name="showCompleted">Show Completed</string>
+    <string name="showPending">Show Pending</string>
+    <string name="sortByTime">Sort by Time</string>
+    <string name="sortByPriority">Sort by Priority</string>
+    <string name="AddButtonText">Add</string>
+    <string name="InsertFailed">Insertion failed, database denied insert, try again</string>
+    <string name="UpdateFailed">Update failed, database denied Update, try again</string>
+    <string name="DeleteFailed">Delete failed, database denied Delete, try again</string>
+    <string-array name="priorities">
+        <item>Priority</item>
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+    <string name="markCompleted">Do you really want to mark it as completed??</string>
+    <string name="okAlertDialog">OK</string>
+    <string name="cancelAlertDialog">Cancel</string>
+    <string name="markPending">Do you really want to mark it as pending??</string>
+    <string name="DeleteConfirmation">Do you really want to delete this note??</string>
+    <string name="SelectPriority">Enter Text And Select a Priority for the note before clicking add</string>
+</resources>
